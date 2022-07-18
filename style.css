@@ -1,0 +1,97 @@
+body{
+    background-image: url("image/fond.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px;
+}
+
+
+.img{
+    background: url(Image/Group.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 696px;
+    height: 493px;
+    margin-left: 3.3%;
+    margin-top:10%;
+}
+.huddle{
+background: url(Image/huddle.png);
+background-repeat: no-repeat;
+width: 50px;
+margin-left: 4%;
+
+
+
+}
+.button{
+font-size: 110%;
+color: blueviolet;
+width: 200px;
+height: 56px;
+margin-left: 50%;
+margin-top: 1%;
+cursor: pointer;
+border-radius:28px;
+}
+.button:hover{ 
+    background-color: #E880E8;
+    
+}
+.text{
+    background: url(image/Group1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:520px ;
+    height: 225px;
+    margin-left: 50%;
+    margin-top: -25%;
+
+
+}
+.facebook{
+    background: url(Image/Group4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    margin-left: 85%;
+    margin-top:14.5% ;
+    cursor: pointer;
+}
+.facebook:hover{
+background-image: url(Image/group7.png);
+
+
+
+}
+.twitter{
+background:url(Image/Group5.png) ;
+background-repeat: no-repeat;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    margin-left: 88%;
+    margin-top:-2.2% ;
+    cursor: pointer;
+
+}
+.twitter:hover{
+background-image: url(Image/group8.png);
+
+}
+.insta{
+background: url(Image/Group6.png);
+background-repeat: no-repeat;
+background-size: cover;
+width: 40px;
+height: 40px;
+margin-left: 91.2%;
+margin-top: -2.2%;
+cursor: pointer;
+
+}
+.insta:hover{
+background-image: url(Image/group9.png);
+
+}
